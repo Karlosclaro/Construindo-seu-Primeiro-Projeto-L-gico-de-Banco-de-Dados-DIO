@@ -158,6 +158,9 @@ text
 
  Índices (performance)
 
+ <img width="794" height="1123" alt="image" src="https://github.com/user-attachments/assets/205bcc1a-f0c3-4bac-83fd-d1172f13e1a4" />
+
+
 📫 Contato
 Karlos Claro - Goiânia/GO
 Preparando para Concursos Públicos
